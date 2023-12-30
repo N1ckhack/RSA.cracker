@@ -1,0 +1,12 @@
+Enter key size: 16
+Enter your message: ibts
+Public key: (e=0x578ba8f, n=0x112d25df)
+Private key: (d=0x1db626f, n=0x112d25df)
+
+Encrypted message: 993fb11
+Decrypted message: b'\x02S\x919'
+
+script:
+Bruteforcing in progress:
+Progress: 13.54%
+Recovered message: b'\x02S\x919'
